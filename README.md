@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi, I am a React Js based front-end developer with a little bit of back-end technologies like Node.js, Express.js, MongoDB etc.I am from Gopalganj bangladesh and now I am studying at BSMRSTU. I am passionate to play with web technologies and making awesome user experience.
+#### Hi, I am a React Js based front-end developer with a little bit of back-end technologies like Node.js, Express.js, MongoDB etc.I am from Gopalganj bangladesh and now I am studying at BSMRSTU. I am passionate to play with web technologies and making awesome user experience.
 
-Recently I have completed a complete Web Development course and I have made some projects by myself.I am a quick learner for any new technologies that can help to build awesome web application. I wanna be updated with every single technology related to my fields.
+#### Recently I have completed a complete Web Development course and I have made some projects by myself.I am a quick learner for any new technologies that can help to build awesome web application. I wanna be updated with every single technology related to my fields.
 
 ![Najmul Islam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=snislam&theme=merko)
